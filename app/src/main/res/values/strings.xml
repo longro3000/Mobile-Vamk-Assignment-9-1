@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment_9_1</string>
+    <string name="tv_url_txt">Type URL</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_desc">Downloaded image</string>
+    <string name="btn_get_image_txt">Get Image</string>
+    <string name="btn_display_image_txt">Display Image</string>
+    <string name="btn_go_text">Load URL</string>
+    <string name="btn_save_text">Save URL to database</string>
+    <string name="btn_load_text">Load URL from database</string>
+</resources>
